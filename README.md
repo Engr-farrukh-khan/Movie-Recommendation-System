@@ -34,7 +34,7 @@ Welcome to my **Movie Recommendation System** with a Netflix-inspired design! Th
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo_link>
+   git clone <[repo_link](https://github.com/Engr-farrukh-khan/Movie-Recommendation-System)>
 2. **Install Dependencies:**:
    ```bash
    pip install -r requirements.txt
